@@ -38,7 +38,12 @@ public class MarkDetails {
 	b = a/5;
 	System.out.println("The average of the mark is "+b);
 	
+
+	System.out.println("oneeeeee");
+	System.out.println("twooooooo");
 	System.out.println("oneeeeeeeeeeee");
+	System.out.println("oneeeeeeeeeeee");
+
 	}
 
 }
